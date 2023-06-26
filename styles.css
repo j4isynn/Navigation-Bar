@@ -1,0 +1,31 @@
+#watermelon {
+ font-family: Arial;
+    color: rgb(171, 245, 242);
+    display: inline-block;
+     position: static;
+}
+
+#pineapple {
+ font-family: Sans;
+    color: rgb(136, 194, 139);
+    display: inline-block;
+    position: static;
+}
+
+#grapes {
+ font-family: Cursive;
+    color: rgb(235, 185, 237);
+    display: inline-block; 
+     position: static;
+}
+
+#kiwi {
+ font-family: caligraphy;
+    color: rgb(163, 163, 214);
+    display: inline-block; 
+     position: static;
+}
+ body {
+     background-color: black;
+}
+
